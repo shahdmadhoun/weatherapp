@@ -1,6 +1,7 @@
 const api = {
     key: "cad86314552b94deb5b82fa8e5e1e33e",
-    base: "https://api.openweathermap.org/data/2.5/"
+    base: "https://api.openweathermap.org/data/2.5/",
+    forecastDays:3
   }
   
   const search = document.querySelector('.search');
